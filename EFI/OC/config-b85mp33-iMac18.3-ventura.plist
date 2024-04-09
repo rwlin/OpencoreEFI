@@ -5,7 +5,7 @@
 	<key>#Hardware</key>
 	<string>i3-4130/MSI B85M-P33 V3</string>
 	<key>#SMBIOS Settings</key>
-	<string>iMac14,4/D25MVTZZFY0T/D25424609QXG36DFB/FCE61ED1-18A8-4B01-9B99-9B89545587EF/38C9863E2269</string>
+	<string>iMac18,3/C02ZW0K1J1GJ/C02952609GUJ0PG1M/70913B73-C101-4534-972E-2BDFCAC0AB38/98FE945CA427</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -853,7 +853,7 @@
 			<key>BlacklistAppleUpdate</key>
 			<true/>
 			<key>DmgLoading</key>
-			<string>Signed</string>
+			<string>Any</string>
 			<key>EnablePassword</key>
 			<false/>
 			<key>ExposeSensitiveData</key>
@@ -927,7 +927,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 debug=0x100 alcid=1</string>
+				<string>-v keepsyms=1 debug=0x100 alcid=1 -wegnoegpu</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
@@ -998,23 +998,23 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>D25424609QXG36DFB</string>
+			<string>C02952609GUJ0PG1M</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>OMmGPiJp</data>
+			<data>mP6UXKQn</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac14,4</string>
+			<string>iMac18,3</string>
 			<key>SystemSerialNumber</key>
-			<string>D25MVTZZFY0T</string>
+			<string>C02ZW0K1J1GJ</string>
 			<key>SystemUUID</key>
-			<string>FCE61ED1-18A8-4B01-9B99-9B89545587EF</string>
+			<string>70913B73-C101-4534-972E-2BDFCAC0AB38</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
